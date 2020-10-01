@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1601587830 source:c:\proyectos cb\proyecti de prueba poo\proyecto_tutorial\empleado.cpp
+	<iostream>
+	<conio.h>
+	"empleado.h"
+
+1601587773 c:\proyectos cb\proyecti de prueba poo\proyecto_tutorial\empleado.h
+	<string>
+
+1601587830 source:c:\proyectos cb\proyecti de prueba poo\proyecto_tutorial\main.cpp
+	<iostream>
+	<string>
+	"empleado.h"
+
